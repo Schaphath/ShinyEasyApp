@@ -1,6 +1,6 @@
 ### Une petite application :)
 
-Elle peut importer un dataset en format csv et xlsx et visualiser rapidement des graphiques. 
+Elle peut importer un dataset en format csv et visualiser rapidement des graphiques. 
 
 ### Elle permet de réaliser des :
 - boxplots
