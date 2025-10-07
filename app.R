@@ -1,7 +1,7 @@
 
 
 library(shiny)
-
+library(bslib)
 
 
 # EXEMPLE APP : DataViz
